@@ -8,10 +8,10 @@ I'm currently a 6th-semester engineering student at GIKI and a Web and Tech Deve
 * Developing an EV Energy Management System.
 * Building an interactive simulation framework for ADC systems.
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Environments:** Python, MATLAB, Assembly
-* **Libraries:** NumPy, Pandas, Matplotlib
-* **Core Focus:** Linear Algebra, Numerical Integration, Circuit Analysis, Discrete System Modeling
+## 🛠 Tech Stack & Tools
+* **Languages & Scripting:** Python (NumPy, Pandas, Matplotlib, Scikit-Learn), MATLAB/Octave.
+* **Mathematical Modeling:** LaTeX (Technical Documentation), Linear Algebra, Discrete System Modeling.
+* **Engineering Tools:** Circuit Simulation, Numerical Analysis, Statistical Modeling.
 
 ## 🚀 Featured Repositories
 
