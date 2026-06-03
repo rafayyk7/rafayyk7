@@ -20,4 +20,4 @@ I'm currently a 6th-semester engineering student at GIKI and a Web and Tech Deve
 
 ### 📫 How to reach me
 * **LinkedIn:** https://www.linkedin.com/in/abdul-rafay-khan-699888283?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-* **Location:** Sukkur, Sindh, Pakistan
+* **Location:** Islamabad, Pakistan
